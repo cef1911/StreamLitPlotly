@@ -6,3 +6,4 @@ plotly
 figure_factory 
 time
 pyplot
+matplotlib
