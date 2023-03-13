@@ -3,7 +3,6 @@ streamlit
 altair
 numpy
 plotly
-figure_factory 
 time
 pyplot
 matplotlib
